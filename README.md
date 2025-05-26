@@ -83,12 +83,24 @@ Prompting Pattern: Zero-shot + Instruction
 ![image alt](https://github.com/Ajay-Joshua-M/EX-5-prompt-engineering-/blob/1ede44b87d1f667d333b1e3ea8b70a8ddabab442/images/Screenshot%202025-05-26%20080152.png)
 
 # Question 5: Write a short poem about stars.
+. ChatGPT:
+
+![image alt](https://github.com/Ajay-Joshua-M/EX-5-prompt-engineering-/blob/4bf6372388d1e1b1dfb1b0a41deeacb4b6c4912c/images/Screenshot%202025-05-26%20080204.png)
+
+. Claude:
+
+![image alt](https://github.com/Ajay-Joshua-M/EX-5-prompt-engineering-/blob/4bf6372388d1e1b1dfb1b0a41deeacb4b6c4912c/images/Screenshot%202025-05-26%20080214.png)
+
+. Perplexity:
+
+![image alt](https://github.com/Ajay-Joshua-M/EX-5-prompt-engineering-/blob/4bf6372388d1e1b1dfb1b0a41deeacb4b6c4912c/images/Screenshot%202025-05-26%20080223.png)
+
 
 # Question 5 Analysis:
 Type: Creative / Generative
 Prompting Pattern: Zero-shot
 
-
+![image alt](https://github.com/Ajay-Joshua-M/EX-5-prompt-engineering-/blob/4bf6372388d1e1b1dfb1b0a41deeacb4b6c4912c/images/Screenshot%202025-05-26%20080235.png)
 
 
 # Question 6: Is it cheaper to take a bus or a train from Chennai to Bangalore?
