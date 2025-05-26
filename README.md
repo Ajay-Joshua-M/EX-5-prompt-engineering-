@@ -87,6 +87,8 @@ Type: Creative / Generative
 Prompting Pattern: Zero-shot
 
 
+
+
 # Question 6: Is it cheaper to take a bus or a train from Chennai to Bangalore?
 
 Answer:
