@@ -132,10 +132,7 @@ A: Insufficient data in provided sources to compare costs.
 Type: Practical / Cost comparison
 Prompting Pattern: Few-shot or direct
 
-![image alt](
-
-
-
+![image alt](https://github.com/Ajay-Joshua-M/EX-5-prompt-engineering-/blob/4327df605ca6cb11fe538b85aa1fc88775c82f7e/images/Screenshot%202025-05-26%20102538.png)
 
 
 # Question 7: Is happiness a choice?
