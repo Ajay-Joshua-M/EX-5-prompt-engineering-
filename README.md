@@ -64,7 +64,17 @@ Prompting Pattern: Chain-of-Thought
 ![image alt](
 
 # Question 4: Write a Python function to reverse a string.
+. ChatGPT:
 
+![image alt](https://github.com/Ajay-Joshua-M/EX-5-prompt-engineering-/blob/d640bca5fac5ff17dc5b99b0a60f4f8ad1a8adca/images/Screenshot%202025-05-26%20080106.png)
+
+. Claude:
+
+![image alt](https://github.com/Ajay-Joshua-M/EX-5-prompt-engineering-/blob/d640bca5fac5ff17dc5b99b0a60f4f8ad1a8adca/images/Screenshot%202025-05-26%20080128.png)
+
+. Perplexity:
+
+![image alt](https://github.com/Ajay-Joshua-M/EX-5-prompt-engineering-/blob/d640bca5fac5ff17dc5b99b0a60f4f8ad1a8adca/images/Screenshot%202025-05-26%20080139.png)
 
 # Question 4 Analysis:
 Type: Technical / Code generation
