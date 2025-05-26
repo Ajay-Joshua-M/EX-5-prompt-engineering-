@@ -155,18 +155,15 @@ A: Subjective question; no direct insights from sources.
 # Question 7 Analysis:
 Type: Philosophical / Opinion-based
 Prompting Pattern: Reflection + Open-ended
-AI Tool	Quality	Accuracy	Depth	Notes
-ChatGPT	A-	A	A-	Acknowledges internal/external factors. Balanced discussion.
-Claude	A	A	A	Deeply reflective with cultural/psychological context. Poetic tone.
-Perplexity	B	B+	B	Positive stance, but oversimplified. Lacks nuance in broader factors.
 
-
+![image alt](https://github.com/Ajay-Joshua-M/EX-5-prompt-engineering-/blob/51b0fff669ef8e9d920949411748925ce1de2974/images/Screenshot%202025-05-26%20080308.png)
 
 # Question 8: Compare Wi-Fi and Bluetooth.
 
 •	ChatGPT:
- 
 
+![image alt](https://github.com/Ajay-Joshua-M/EX-5-prompt-engineering-/blob/51b0fff669ef8e9d920949411748925ce1de2974/images/Screenshot%202025-05-26%20080321.png)
+ 
 •	Claude:
 •	Wi-Fi and Bluetooth are both wireless communication technologies, but they serve different purposes and have distinct characteristics:
 •	Range and Power: Wi-Fi offers a much longer range (up to 100 meters indoors) and higher power consumption, making it suitable for whole-home or office coverage. Bluetooth has a shorter range (typically 10 meters) with lower power requirements, making it ideal for personal-area networks.
@@ -177,12 +174,17 @@ Perplexity	B	B+	B	Positive stance, but oversimplified. Lacks nuance in broader f
 •	Energy Efficiency: Bluetooth is significantly more energy-efficient, particularly with Bluetooth Low Energy (BLE), making it suitable for battery-powered devices. Wi-Fi consumes more power but offers features like power-saving modes.
 •	These differences make Wi-Fi and Bluetooth complementary rather than competing technologies, with each excelling in different scenarios based on range, speed, power, and connection type requirements.
 
-
 •	Perplexity:
+
+![image alt](https://github.com/Ajay-Joshua-M/EX-5-prompt-engineering-/blob/51b0fff669ef8e9d920949411748925ce1de2974/images/Screenshot%202025-05-26%20080329.png)
 
 # Question 8 Analysis:
 Type: Technical Comparison
 Prompting Pattern: Direct Prompt
+
+![image alt](https://github.com/Ajay-Joshua-M/EX-5-prompt-engineering-/blob/51b0fff669ef8e9d920949411748925ce1de2974/images/Screenshot%202025-05-26%20080340.png)
+
+
 
 
 
