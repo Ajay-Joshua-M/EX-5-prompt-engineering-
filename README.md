@@ -25,21 +25,22 @@ Prompting Pattern: Zero-shot Prompting
 # Question 2: Why did the Roman Empire fall?
 
 •	ChatGPT: The fall of the Roman Empire was due to a combination of internal and external factors. Internally, economic troubles, overreliance on slave labor, political instability, and corruption weakened the empire. Military overspending and a decline in civic virtue also contributed. Externally, invasions by Germanic tribes such as the Visigoths and Vandals, as well as the Huns from Central Asia, placed immense pressure on the empire's borders. The Western Roman Empire officially fell in 476 AD when the last emperor, Romulus Augustulus, was deposed by the Germanic chieftain Odoacer. However, the Eastern Roman Empire (Byzantine Empire) continued for nearly a thousand more years.
-
 •	Claude: The fall was driven by:
-	Internal corruption: Weak leadership, inflation, and excessive taxation weakened governance2.
-	Division: The empire split into Eastern (Byzantine) and Western halves under Diocletian, diluting resources2.
-	Germanic invasions: Tribes like the Visigoths exploited the Western Empire's instability, culminating in Rome's sack in 410 CE2.
+.   Internal corruption: Weak leadership, inflation, and excessive taxation weakened governance2.
+.	Division: The empire split into Eastern (Byzantine) and Western halves under Diocletian, diluting resources2.
+.	Germanic invasions: Tribes like the Visigoths exploited the Western Empire's instability, culminating in Rome's sack in 410 CE2.
 •	Perplexity: The fall of the Roman Empire was a complex, multi-century process rather than a single event. Key factors included:
-	Internal problems: Political instability with rapid emperor turnover, corruption, economic difficulties, overreliance on slave labor, excessive military spending, and widening social inequality.
-	External pressures: Continuous invasions by Germanic tribes and other groups (Visigoths, Ostrogoths, Vandals, Huns) along the lengthy imperial borders.
-	Administrative challenges: The empire became too large to govern effectively, leading to its division into Western and Eastern halves in 395 CE.
-	Military weaknesses: Increasing reliance on mercenaries with questionable loyalty, declining military discipline, and difficulty recruiting Roman citizens.
-	The Western Roman Empire officially ended in 476 CE when the Germanic leader Odoacer deposed Emperor Romulus Augustulus, while the Eastern (Byzantine) Empire continued until 1453 CE.
+.	Internal problems: Political instability with rapid emperor turnover, corruption, economic difficulties, overreliance on slave labor, excessive military spending, and widening social inequality.
+.	External pressures: Continuous invasions by Germanic tribes and other groups (Visigoths, Ostrogoths, Vandals, Huns) along the lengthy imperial borders.
+.	Administrative challenges: The empire became too large to govern effectively, leading to its division into Western and Eastern halves in 395 CE.
+.	Military weaknesses: Increasing reliance on mercenaries with questionable loyalty, declining military discipline, and difficulty recruiting Roman citizens.
+.	The Western Roman Empire officially ended in 476 CE when the Germanic leader Odoacer deposed Emperor Romulus Augustulus, while the Eastern (Byzantine) Empire continued until 1453 CE.
     
 # Question 2 Analysis:
 Type: Analytical / Historical
 Prompting Pattern: Chain-of-Thought
+
+![image alt](
 
 # Questions – 3: Is 97 a prime number?
 
@@ -59,6 +60,8 @@ Therefore, 97 is a prime number.
 # Question 3 Analysis:
 Type: Mathematical / Logical Reasoning
 Prompting Pattern: Chain-of-Thought
+
+![image alt](
 
 # Question 4: Write a Python function to reverse a string.
 
