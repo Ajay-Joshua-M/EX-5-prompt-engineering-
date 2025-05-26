@@ -40,7 +40,7 @@ Prompting Pattern: Zero-shot Prompting
 Type: Analytical / Historical
 Prompting Pattern: Chain-of-Thought
 
-![image alt](
+![image alt](https://github.com/Ajay-Joshua-M/EX-5-prompt-engineering-/blob/e0f8b870c5e0036225d75129a1ef254c72cf55a3/images/Screenshot%202025-05-26%20100753.png)
 
 # Questions – 3: Is 97 a prime number?
 
