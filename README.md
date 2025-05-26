@@ -132,6 +132,8 @@ A: Insufficient data in provided sources to compare costs.
 Type: Practical / Cost comparison
 Prompting Pattern: Few-shot or direct
 
+![image alt](
+
 
 
 
