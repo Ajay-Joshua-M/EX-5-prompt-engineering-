@@ -80,6 +80,8 @@ Prompting Pattern: Chain-of-Thought
 Type: Technical / Code generation
 Prompting Pattern: Zero-shot + Instruction
 
+![image alt](https://github.com/Ajay-Joshua-M/EX-5-prompt-engineering-/blob/1ede44b87d1f667d333b1e3ea8b70a8ddabab442/images/Screenshot%202025-05-26%20080152.png)
+
 # Question 5: Write a short poem about stars.
 
 # Question 5 Analysis:
