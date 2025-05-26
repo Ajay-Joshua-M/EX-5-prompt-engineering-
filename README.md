@@ -61,7 +61,7 @@ Therefore, 97 is a prime number.
 Type: Mathematical / Logical Reasoning
 Prompting Pattern: Chain-of-Thought
 
-![image alt](
+![image alt](https://github.com/Ajay-Joshua-M/EX-5-prompt-engineering-/blob/9588ad0da533d73caa06f35f1597d85f78469ae9/images/Screenshot%202025-05-26%20101013.png)
 
 # Question 4: Write a Python function to reverse a string.
 . ChatGPT:
