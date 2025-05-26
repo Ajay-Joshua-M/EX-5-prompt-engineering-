@@ -20,6 +20,8 @@ To systematically evaluate and compare the effectiveness of different prompting 
 Type: Factual / Descriptive
 Prompting Pattern: Zero-shot Prompting
 
+![image alt](https://github.com/Ajay-Joshua-M/EX-5-prompt-engineering-/blob/40a543416713c7c2843a2456d30a986085fdfb16/images/Screenshot%202025-05-26%20075712.png)
+
 # Question 2: Why did the Roman Empire fall?
 
 •	ChatGPT: The fall of the Roman Empire was due to a combination of internal and external factors. Internally, economic troubles, overreliance on slave labor, political instability, and corruption weakened the empire. Military overspending and a decline in civic virtue also contributed. Externally, invasions by Germanic tribes such as the Visigoths and Vandals, as well as the Huns from Central Asia, placed immense pressure on the empire's borders. The Western Roman Empire officially fell in 476 AD when the last emperor, Romulus Augustulus, was deposed by the Germanic chieftain Odoacer. However, the Eastern Roman Empire (Byzantine Empire) continued for nearly a thousand more years.
